@@ -74,7 +74,7 @@ if (isset($_SESSION['user_id'])) {
       <div class="services-grid">
         <div class="service-card animate-on-scroll slide-up delay-100">
           <div class="service-icon">🧹</div>
-          <h3>Jhadu & Pocha</h3>
+          <h3>Sweeping & Mopping</h3>
           <p>Immaculate sweeping and mopping to keep your floors spotless and germ-free every single day.</p>
         </div>
         
@@ -86,13 +86,13 @@ if (isset($_SESSION['user_id'])) {
         
         <div class="service-card animate-on-scroll slide-up delay-300">
           <div class="service-icon">🍽️</div>
-          <h3>Bartan</h3>
+          <h3>Utensils cleaning</h3>
           <p>Thorough dishwashing ensuring your utensils shine brighter without the hassle.</p>
         </div>
         
         <div class="service-card animate-on-scroll slide-up delay-400">
           <div class="service-icon">🧺</div>
-          <h3>Kapde</h3>
+          <h3>Laundry</h3>
           <p>Careful washing, drying, and folding of clothes to maintain fabric quality.</p>
         </div>
       </div>
